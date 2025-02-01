@@ -32,7 +32,7 @@ photo1 = 'https://envs.sh/PQ_.jpg'
 getstatusoutput(f"wget {photo1} -O 'photo.jpg'")    
 photo = "photo.jpg"
 
-credit ="😎𝖘:)™~" 
+credit ="Alex:)™~" 
 OWNER = int(os.environ.get("OWNER", 7081036509))
 try: 
     ADMINS=[] 
